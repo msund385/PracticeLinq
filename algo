@@ -1,4 +1,13 @@
 Decide which business to order from
+ a.Check the internet for locations
 Decide what type of pizza you want
 Specify payment
-Wait
+Wait\
+When pizza arrives, check it for quality
+a.Check pizza for quality
+b.Check for plates and utensils
+c. Check for any add ons that were ordered
+If everything is coreect, Eat up!!!
+Leave feedback with business about your experience
+a.Go to website
+b.Dial the location
