@@ -1,0 +1,13 @@
+C:\Users\Michael\Desktop\repos\methodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\methodsWithLoopsAndConditionals.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\repos\methodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\methodsWithLoopsAndConditionals.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\repos\methodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\methodsWithLoopsAndConditionals.AssemblyInfo.cs
+C:\Users\Michael\Desktop\repos\methodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\methodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\repos\methodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\methodsWithLoopsAndConditionals.exe
+C:\Users\Michael\Desktop\repos\methodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\methodsWithLoopsAndConditionals.deps.json
+C:\Users\Michael\Desktop\repos\methodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\methodsWithLoopsAndConditionals.runtimeconfig.json
+C:\Users\Michael\Desktop\repos\methodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\methodsWithLoopsAndConditionals.runtimeconfig.dev.json
+C:\Users\Michael\Desktop\repos\methodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\methodsWithLoopsAndConditionals.dll
+C:\Users\Michael\Desktop\repos\methodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\methodsWithLoopsAndConditionals.pdb
+C:\Users\Michael\Desktop\repos\methodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\methodsWithLoopsAndConditionals.dll
+C:\Users\Michael\Desktop\repos\methodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\methodsWithLoopsAndConditionals.pdb
+C:\Users\Michael\Desktop\repos\methodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\methodsWithLoopsAndConditionals.genruntimeconfig.cache
